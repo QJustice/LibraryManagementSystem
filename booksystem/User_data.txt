@@ -1,0 +1,8 @@
+root root Administration
+teacher libroot librarian
+Amy 123456 reader
+John 123456 reader
+Mike 789456 reader
+Kali 123456 reader
+Jerry 147258 reader
+Wofe 3037250 reader
